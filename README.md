@@ -16,6 +16,6 @@
 </p>
   <p>Верстка страниц проекта на bootstrap</p>
   <p>Сайт проекта: 
-<a href="https://ilyushenkov.github.io/pets_front/">Посмотреть</a>
+<a href="https://ilyushenkov.github.io/pm08/">Посмотреть</a>
 </p>
 </main>
